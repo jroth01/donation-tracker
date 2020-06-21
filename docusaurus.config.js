@@ -2,7 +2,7 @@ module.exports = {
   title: 'Donation Tracker',
   tagline: 'Project Site for Donation Tracker, Tufts Code For Good 2020',
   url: 'https://jroth01.github.io',
-  baseUrl: '/',
+  baseUrl: '/donation-tracker/',
   favicon: 'img/favicon.ico',
   organizationName: 'jroth01', // Usually your GitHub org/user name.
   projectName: 'donation-tracker', // Usually your repo name.
