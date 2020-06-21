@@ -3,13 +3,12 @@ id: links
 title: Source Code Links
 sidebar_label: Source Code Links
 ---
-
+## Github Repos
 Based on our initial conversation, we’ll be using technologies with which you’re most familiar. For this project, we’ll have two repositories: one for a NodeJS + MongoDB backend, and one for a ReactJS front end.
 
-## Back end 
-[NodeJS + MongoDB server with JWT Auth](https://github.com/jroth01/donation-tracker-server) 
-## Front end 
-[ReactJS Front End](https://github.com/jroth01/donation-tracker-client)
+1. [NodeJS + MongoDB server with JWT Auth](https://github.com/jroth01/donation-tracker-server) 
+
+2. [ReactJS Front End](https://github.com/jroth01/donation-tracker-client)
 
 ## Kanban Board
 
