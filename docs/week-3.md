@@ -26,20 +26,20 @@ Once you’ve gone through the items under ‘Getting Started’ you should be r
 
 Here are the deliverables for this week:
 
-**Create a pipeline and deploy the backend**
-1. Create heroku pipeline to deploy the backend
-2. Provision a MongoDB database resource for your app
-3. Connect to the remote MongoDB database using Robo3T
-4. Verify changes in staging manually using Postman, explore the remote database using Robo3T
-5. Add tests using Jest
-6. Configure pipeline to run tests when server deploys
+**[Milestone: Deploy the backend](https://github.com/jroth01/donation-tracker-server/milestone/2)**
+1. [Create heroku pipeline to deploy the backend](https://github.com/jroth01/donation-tracker-server/issues/10)
+2. [Provision a MongoDB database resource for your app](https://github.com/jroth01/donation-tracker-server/issues/11)
+3. [Connect to the remote MongoDB database using Robo3T](https://github.com/jroth01/donation-tracker-server/issues/12)
+4. [Verify changes in staging manually using Postman, explore the remote database using Robo3T](https://github.com/jroth01/donation-tracker-server/issues/13)
+5. [Add automated tests using Jest](https://github.com/jroth01/donation-tracker-server/issues/14)
+6. [Configure pipeline to run tests when server deploys](https://github.com/jroth01/donation-tracker-server/issues/15)
 
-**Create a pipeline and deploy the front end**
+**[Milestone: Deploy the front end](https://github.com/jroth01/donation-tracker-client/milestone/2)**
 
-7. Create pipeline to deploy front end 
-8. Verify manually in staging by viewing the app in a browser and logging in
-9. Add tests using Jest
-10. Configure pipeline to run tests when front end deploys
+7. [Create pipeline to deploy front end](https://github.com/jroth01/donation-tracker-client/issues/5)
+8. [Verify manually in staging by viewing the app in a browser and logging in](https://github.com/jroth01/donation-tracker-client/issues/6)
+9. [Add automated tests using Jest](https://github.com/jroth01/donation-tracker-client/issues/7)
+10. [Configure pipeline to run tests when front end deploys](https://github.com/jroth01/donation-tracker-client/issues/8)
 
 ## Relevant Resources
 
