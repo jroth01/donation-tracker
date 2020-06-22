@@ -3,8 +3,10 @@ id: week2
 title: Week 2
 sidebar_label: Week 2
 ---
+Front end development with React, React-Router, React-Bootstrap.
+
 ## Objectives
-- Finish up outstanding items from last week
+- Finish up outstanding items from [last week](week-1.md)
 - Get familiar with ReactJS, Client-side UI development
 - Integrate your API endpoints with a front end
 
@@ -13,7 +15,6 @@ sidebar_label: Week 2
 2. Launch the NodeJS + MongoDB server you’ve been working on locally 
 3. Start the ReactJS front end using the steps outlined in the ReadMe
 4. Explore the front end in the browser, and take a look at the code
-
 
 ## Deliverables
 Once you’ve gone through the items under ‘Getting Started’ you should be ready!
@@ -45,4 +46,5 @@ Don’t worry if you have difficulty or don’t finish! This may or may not be a
 
 Feel free to message the react channel on slack
 
-Happy hacking!
+## Retrospective
+[Week 1 Retro](../blog/2020/06/22)

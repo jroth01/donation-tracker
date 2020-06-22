@@ -9,7 +9,7 @@ module.exports = {
       {
         type: 'category',
         label: 'Weekly Specs',
-        items: ['week1','week2','faq'],
+        items: ['week1','week2', 'week3','faq'],
       },
     ],
   },

@@ -3,6 +3,7 @@ id: week1
 title: Week 1
 sidebar_label: Week 1
 ---
+Back end development with NodeJS, Express, MongoDB, Mongoose. JWT authentication
 
 ## Objectives
 - Think broadly about the direction of the project
@@ -10,7 +11,6 @@ sidebar_label: Week 1
 - Get familiar with Github, Git, NodeJS, MongoDB, mongoose, the basics of JWT authentication
 - Read and understand some existing code
 - Write some code + author some pull requests on Github!
-
 
 ## Getting Started
 1. Download [Visual Studio Code](https://code.visualstudio.com/)
@@ -56,28 +56,4 @@ Don’t worry if you have difficulty or don’t finish! This may or may not be a
 Coming up on Tuesday - Lexi is giving a presentation on Github for Project Management. Check the slack channel for details
 
 ## Retrospective
-A retrospective (or retro for short) is an opportunity for a team to reflect, adapt, and improve. Many teams to have a retro after each “sprint”, or time-boxed iteration of work. Since we just finished the first week, here are some questions to consider.
-
-### What went well last week?
-- good level of difficulty, amount of work
-- having a laid out spec was very helpful
-- majority of the time spent figuring out the code
-- setup went great on first day(1 issue getting mongo going locally)
-- learning javascript syntax
-got a lot better at troubleshooting by the end of the week!
-
-### What didn’t go well?
-- sometimes knowing what to google took a while
-getting stuck, taking hours to write a few lines of code
-- ability to commit time this week, balancing personal commitments 
-
-### What did you learn?
-- learning how to troubleshoot open ended problems
-specifics of javascript syntax, request response, noSQL, mongo
-
-### What still puzzles you?
-- want to go back over jwt verification methods, ensure i’m not doing redundant checks 
-
-### What should we do differently next week?
-- keep it similar to last week in terms of having a weekly spec
-- preview the tasks ahead of time and research concepts to have better background knowledge
+[Week 1 Retro](../blog/2020/06/15)
