@@ -1,6 +1,6 @@
 ---
 id: week4
-title: Week 34
+title: Week 4
 sidebar_label: Week 4
 ---
 Self-guided feature development
