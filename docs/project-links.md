@@ -16,3 +16,8 @@ Based on our initial conversation, we’ll be using technologies with which you�
 
 I’ll do my best to break down tasks into smaller milestones each week. For a higher level view, here’s where we’ll handle project management tasks in a Kanban style board. The cards on the board will reference github issues. As you complete pull requests that reference the issues, items in the board will automatically shift over.
 
+## Heroku App Links
+
+### Staging
+client: https://dd-client-staging.herokuapp.com/
+server: https://dd-server-staging.herokuapp.com
